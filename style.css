@@ -1,0 +1,47 @@
+body{
+    text-align:center;
+    font-family: 'Lora', serif;
+}
+
+
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    scroll-behavior: smooth;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    scroll-behavior: smooth;
+
+}
+#img_home{
+    height:775px;
+    width:1515px;
+}
+   
+.img2{
+    height:300px;
+    width:500px;
+}
+
+h1{
+  font-family: 'Lora', serif;  
+}
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : black;
+    font-family: 'Lora', serif;
+    font-size: 15;
+}
+
+.
